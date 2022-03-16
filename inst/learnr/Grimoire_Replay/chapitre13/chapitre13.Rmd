@@ -281,10 +281,7 @@ Après création du projet de package `projet2`, un répertoire `projet2` appara
 
 
 ```{r, message=FALSE, warning=FALSE}
-# proxy_url <- "http://proxy-rie.http.insee.fr:8080"
-# Sys.setenv(http_proxy = proxy_url, https_proxy = proxy_url)
-library(vembedr)
-embed_url("https://youtu.be/zNzZ1PfUDNk") 
+
 ```
 
 <iframe width="560" height="315" src="https://youtu.be/zNzZ1PfUDNk" frameborder="0" allowfullscreen></iframe>
