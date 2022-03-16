@@ -276,6 +276,30 @@ Après création du projet de package `projet2`, un répertoire `projet2` appara
 
 <BR>
 
+
+[![Alternate Text]({image-url})]({https://youtu.be/zNzZ1PfUDNk} "Link Title")
+
+
+```{r, message=FALSE, warning=FALSE}
+# proxy_url <- "http://proxy-rie.http.insee.fr:8080"
+# Sys.setenv(http_proxy = proxy_url, https_proxy = proxy_url)
+library(vembedr)
+embed_url("https://youtu.be/zNzZ1PfUDNk") 
+```
+
+<iframe width="560" height="315" src="https://youtu.be/zNzZ1PfUDNk" frameborder="0" allowfullscreen></iframe>
+
+
+Ci-dessous, la création d'un projet de package en viéeo.
+![](https://youtu.be/zNzZ1PfUDNk){width="560" height="315"}
+![](C:/Users/RXD96P/Videos/4.avi){width="560" height="315"}
+
+<BR>
+
+<BR>
+
+
+
 #### Visualisation du projet dans l'explorateur de fichier
 
 <BR>
