@@ -278,8 +278,14 @@ Après création du projet de package `projet2`, un répertoire `projet2` appara
 
 <BR>
 
-Ci-dessous, la création d'un projet de package en viéeo.
+Ci-dessous, la création d'un projet de package en vidéo.
 ![](https://youtu.be/zNzZ1PfUDNk){width="560" height="315"}
+
+Si la vidéo ne s'affiche pas, cliquer sur le lien 
+```{r, message=FALSE, warning=FALSE, echo=FALSE, eval=TRUE}
+htmltools::HTML('<a href="https://youtu.be/zNzZ1PfUDNk">Création d\'un projet de package</a>')
+```
+.
 <!-- ok <iframe width="560" height="315" src="https://youtu.be/zNzZ1PfUDNk" frameborder="0" allowfullscreen></iframe> -->
 <!-- pas ok ![](C:/Users/RXD96P/Videos/4.avi){width="560" height="315"} -->
 <!-- pas ok [![Alternate Text]({image-url})]({https://youtu.be/zNzZ1PfUDNk} "Link Title") -->
