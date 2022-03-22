@@ -280,9 +280,15 @@ Après création du projet de package `projet2`, un répertoire `projet2` appara
 
 ```{r, message=FALSE, warning=FALSE, echo=TRUE, eval=TRUE}
 getwd()
+chemin <- paste0(getwd(), "/creer_projet.mp4")
+chemin
 ```
 
 ![](creer_projet.mp4){width="560" height="315"}
+![](/creer_projet.mp4){width="560" height="315"}
+![](chemin){width="560" height="315"}
+![]("creer_projet.mp4"){width="560" height="315"}
+![]("/creer_projet.mp4"){width="560" height="315"}
 
 Ci-dessous, la création d'un projet de package en vidéo.
 ![](https://youtu.be/zNzZ1PfUDNk){width="560" height="315"}
