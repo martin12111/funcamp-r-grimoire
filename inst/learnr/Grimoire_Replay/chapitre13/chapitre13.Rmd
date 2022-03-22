@@ -278,6 +278,8 @@ Après création du projet de package `projet2`, un répertoire `projet2` appara
 
 <BR>
 
+![](C:/Users/RXD96P/Videos/2022_03_22/creer_projet.mp4){width="560" height="315"}
+
 Ci-dessous, la création d'un projet de package en vidéo.
 ![](https://youtu.be/zNzZ1PfUDNk){width="560" height="315"}
 
