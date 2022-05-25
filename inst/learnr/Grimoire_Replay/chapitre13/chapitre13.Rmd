@@ -279,7 +279,7 @@ Après création du projet de package `projet2`, un répertoire `projet2` appara
 <BR>
 
 Ci-dessous, la création d'un projet de package en vidéo.
-![](creer_projet.mp4){width="560" height="315"}
+![]("./creer_projet.mp4"){width="560" height="315"}
 # ![](https://youtu.be/zNzZ1PfUDNk){width="560" height="315"}
 
 Si la vidéo ne s'affiche pas, cliquez 
