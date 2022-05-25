@@ -279,20 +279,15 @@ Après création du projet de package `projet2`, un répertoire `projet2` appara
 <BR>
 
 Ci-dessous, la création d'un projet de package en vidéo.
-![](https://youtu.be/zNzZ1PfUDNk){width="560" height="315"}
+```{r, message=FALSE, warning=FALSE, echo=FALSE, eval=TRUE}
+htmltools::includeHTML("creer_projet.html")
+```
 
 Si la vidéo ne s'affiche pas, cliquez 
 ```{r, message=FALSE, warning=FALSE, echo=FALSE, eval=TRUE}
 htmltools::HTML('<a href="https://youtu.be/zNzZ1PfUDNk">ici</a>')
 ```
 .
-<!-- ok SSPCloud ![](https://youtu.be/zNzZ1PfUDNk){width="560" height="315"} -->
-<!-- ok SSPCloud <iframe width="560" height="315" src="https://youtu.be/zNzZ1PfUDNk" frameborder="0" allowfullscreen></iframe> -->
-<!-- pas ok <iframe width="560" height="315" src="C:/Users/RXD96P/Documents/GitHub/funcamp-r-grimoire/inst/learnr/Grimoire_Replay/chapitre13/creer_projet.mp4" frameborder="0" allowfullscreen></iframe> -->
-<!-- pas ok ![](C:/Users/RXD96P/Videos/4.avi){width="560" height="315"} -->
-<!-- pas ok [![Alternate Text]({image-url})]({https://youtu.be/zNzZ1PfUDNk} "Link Title") -->
-<!-- pas ok <video width="320" height="240" controls><source src="C:/Users/RXD96P/Documents/GitHub/funcamp-r-grimoire/inst/learnr/Grimoire_Replay/chapitre13/creer_projet.mp4" type="video/mp4"></video> -->
-
 
 <BR>
 
