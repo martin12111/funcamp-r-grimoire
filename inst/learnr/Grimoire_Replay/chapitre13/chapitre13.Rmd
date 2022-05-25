@@ -132,13 +132,13 @@ include_graphics("images/source.JPG")
 
 <BR>
 
-## Pourquoi créer un "projet RStudio" ?
+## Pourquoi utiliser un "projet RStudio" ?
 
 <BR>
 
 <BR>
 
-Quand on utilise des programmes R dans le cadre d'un projet statistique, il est conseillé de créer un projet RStudio.  
+Quand on emploie des programmes R dans le cadre d'un projet statistique, il est conseillé de créer un projet RStudio.  
 
 Un projet RStudio permet de :  
 
